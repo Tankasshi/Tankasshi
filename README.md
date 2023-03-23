@@ -8,4 +8,4 @@ Olá, eu sou o Felipe Rodrigues:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tankasshi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tankasshia&layout=compact)](https://github.com/Tankasshi/github-readme-stats)
