@@ -6,4 +6,4 @@ Olá, eu sou o Felipe Rodrigues:
 - 😄 Pronouns: Ele/Dele
 - ⚡ Tenho 19 anos, sou apaixonado por programação e estou focado em seguir minha carreira na área de TI
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tankasshi&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
