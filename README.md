@@ -7,3 +7,5 @@ Olá, eu sou o Felipe Rodrigues:
 - ⚡ Tenho 19 anos, sou apaixonado por programação e estou focado em seguir minha carreira na área de TI
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tankasshi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
