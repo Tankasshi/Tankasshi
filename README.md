@@ -6,6 +6,4 @@ Olá, eu sou o Felipe Rodrigues:
 - 😄 Pronouns: Ele/Dele
 - ⚡ Tenho 19 anos, sou apaixonado por programação e estou focado em seguir minha carreira na área de TI
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tankasshi)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tankasshi&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tankasshi&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tankasshi&show_icons=true)
