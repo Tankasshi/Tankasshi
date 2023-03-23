@@ -26,5 +26,5 @@ Olá, eu sou o Felipe Rodrigues:
   <a href = "mailto:feliperodrigues76@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-rodrigues-dos-santos-51340a208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/felipe-rodrigues-dos-santos-51340a208/](https://api.whatsapp.com/send?phone=5531975338549&text=Curtiu%20meu%20curr%C3%ADculo?%20S%C3%B3%20me%20mandar%20mensagem!!)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/tankasshi" target="_blank"><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)" target="_blank"></a>
+  <a href="https://twitter.com/tankasshi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
