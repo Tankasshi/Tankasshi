@@ -1,10 +1,9 @@
 Olá, eu sou o Felipe Rodrigues:
 
-- 🔭 Hoje eu trabalho com front e back-end
-- 🌱 Atualmente estou aperfeiçoando o JavaScript e aprendendo PHP
+- 🔭 Hoje eu trabalho com Back-end, Observability e Cloud AWS
+- 🌱 Atualmente estou aperfeiçoando em tecnologia Docker, Prometheus e Containers // Estrutura Kubernets 
 - 📫 Entre em contato comigo através do meu email: feliperodrigues76@outlook.com
-- 😄 Pronouns: Ele/Dele
-- ⚡ Tenho 19 anos, sou apaixonado por programação e estou focado em seguir minha carreira na área de TI
+- ⚡ Tenho 21 anos, sou apaixonado por programação e estou focado em seguir minha carreira na área de TI
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tankasshi&show_icons=true&theme=tokyonight)
 
